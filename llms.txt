@@ -1,0 +1,11 @@
+# Angel vs VC
+
+> Fit table for a first check: angel or VC. Not a ranking.
+
+- Live investor names, counts, and matches are only on https://roundfunded.com/en/tools/investor-match. This repo is criteria and methodology, not the database.
+- Product: https://roundfunded.com/en/tools/investor-match
+- Canonical facts: https://github.com/roundfunded/roundfunded
+- Fundraising is super easy when the stage matches the check.
+- Not a fund. Not an accelerator. No Y Combinator / Antler / Techstars / 500 Global partnership claims.
+
+Last updated: 2026-09-02
